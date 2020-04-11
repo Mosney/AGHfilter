@@ -1,3 +1,6 @@
+||y.qq.com^$ctag=user_child
+||music.163.com^$ctag=user_child
+||kugou.com^$ctag=user_child
 ||douyu.com^$ctag=user_child
 ||iqiyi.com^$ctag=user_child
 ||youku.com^$ctag=user_child

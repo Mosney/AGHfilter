@@ -4,11 +4,13 @@
 ||douyu.com^$ctag=user_child
 ||iqiyi.com^$ctag=user_child
 ||youku.com^$ctag=user_child
+||jd.com^$ctag=user_child
+||suning.com^$ctag=user_child
+||www.taobao.com^$ctag=user_child
 ||yangkeduo.com^$ctag=user_child
 ||ucweb.com^$ctag=user_child
 ||huya.com^$ctag=user_child
 ||v.qq.com^$ctag=user_child
-||jd.com^$ctag=user_child
 ||mingrenteahouse.com^$ctag=user_child
 ||rzlib.net^$ctag=user_child
 ||biqugetv.com^$ctag=user_child

@@ -3,10 +3,12 @@
 ||hao123.com^$ctag=user_child
 ||sina.com.cn^$ctag=user_child
 ||360.com ^$ctag=user_child
+||360doc.com ^$ctag=user_child
 ||weibo.com^$ctag=user_child
 ||weibo.cn^$ctag=user_child
 ||ucweb.com^$ctag=user_child
 ||sogou.com^$ctag=user_child
+||sohu.com^$ctag=user_child
 #videosite
 ||douban.com^$ctag=user_child
 ||music.163.com^$ctag=user_child
@@ -15,6 +17,10 @@
 ||mgtv.com^$ctag=user_child
 ||tudou.com^$ctag=user_child
 ||ku6.com^$ctag=user_child
+||v1.cn^$ctag=user_child
+||360kan.com^$ctag=user_child
+||letv.com^$ctag=user_child
+||56.com^$ctag=user_child
 ||iqiyi.com^$ctag=user_child
 ||youku.com^$ctag=user_child
 ||y.qq.com^$ctag=user_child

@@ -1,2 +1,4 @@
+@@||fastly-analytics.com^
+@@||ip-api.com^
 @@||wl.jd.com^
 @@||s.click.taobao.com^

@@ -11,8 +11,8 @@
 ||sohu.com^$ctag=user_child
 #videosite
 ||douban.com^$ctag=user_child
-||music.163.com^$ctag=user_child
-||kugou.com^$ctag=user_child
+#||music.163.com^$ctag=user_child
+#||kugou.com^$ctag=user_child
 ||tv.sohu.com^$ctag=user_child
 ||mgtv.com^$ctag=user_child
 ||tudou.com^$ctag=user_child
@@ -23,7 +23,7 @@
 ||56.com^$ctag=user_child
 ||iqiyi.com^$ctag=user_child
 ||youku.com^$ctag=user_child
-||y.qq.com^$ctag=user_child
+#||y.qq.com^$ctag=user_child
 ||v.qq.com^$ctag=user_child
 ||huya.com^$ctag=user_child
 ||douyu.com^$ctag=user_child

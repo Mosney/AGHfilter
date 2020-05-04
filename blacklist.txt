@@ -7,5 +7,6 @@
 ||httpdns.bcelive.com^
 ||httpdns.c.cdnhwc2.com^
 ||dns.jd.com^
+||dns.weixin.qq.com^
 ||soxs.cc^
 ||xycdn.com^

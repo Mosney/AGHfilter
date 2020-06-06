@@ -1,4 +1,6 @@
 ||mmstat.com^$important
+||360.cn^
+||360.com^
 ||umc.danuoyi.alicdn.com^
 ||httpdns-sc.aliyuncs.com^
 ||www.baidu.com^

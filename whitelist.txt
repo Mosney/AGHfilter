@@ -1,4 +1,2 @@
-@@||fastly-analytics.com^
-@@||ip-api.com^
-#@@||wl.jd.com^
+@@||cdn.ark.qq.com^
 #@@||s.click.taobao.com^

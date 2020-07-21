@@ -1,2 +1,2 @@
 @@||cdn.ark.qq.com^
-#@@||s.click.taobao.com^
+@@||www.baidu.com^$important

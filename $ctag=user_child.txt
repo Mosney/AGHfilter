@@ -84,3 +84,5 @@
 ||zhangyue01.com^$ctag=user_child
 ||idejian.com^$ctag=user_child
 ||shuyuewu.com^$ctag=user_child
+||shuyuewu.com^$ctag=user_child
+||ttyyuuoo.com^$ctag=user_child

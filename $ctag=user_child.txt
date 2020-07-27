@@ -1,3 +1,5 @@
+#Others
+||sogou.com^$ctag=user_child
 #entertainmant
 ||kandian.qq.com^$ctag=user_child
 ||v.kd1.qq.com^$ctag=user_child
@@ -91,3 +93,15 @@
 ||ttyyuuoo.com^$ctag=user_child
 ||bxwz9.org^$ctag=user_child
 ||shuyuewu.co^$ctag=user_child
+||lingdianksw.com^$ctag=user_child
+||xs386.com^$ctag=user_child
+||^$ctag=user_child
+||^$ctag=user_child
+||^$ctag=user_child
+||^$ctag=user_child
+||^$ctag=user_child
+||^$ctag=user_child
+||^$ctag=user_child
+||^$ctag=user_child
+||^$ctag=user_child
+||^$ctag=user_child

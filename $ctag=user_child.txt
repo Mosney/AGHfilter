@@ -1,5 +1,6 @@
 #entertainmant
 ||kandian.qq.com^$ctag=user_child
+||v.kd1.qq.com^$ctag=user_child
 ||douyin.com^$ctag=user_child
 ||snssdk.com^$ctag=user_child
 ||amemv.com^$ctag=user_child

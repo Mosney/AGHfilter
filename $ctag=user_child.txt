@@ -68,6 +68,7 @@
 ||mingrenteahouse.com^$ctag=user_child
 ||rzlib.net^$ctag=user_child
 ||biqugetv.com^$ctag=user_child
+||9biquge.com^$ctag=user_child
 ||shuquge.com^$ctag=user_child
 ||ahdsez.com^$ctag=user_child
 ||xiumb.com^$ctag=user_child

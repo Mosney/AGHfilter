@@ -1,2 +1,3 @@
 @@||cdn.ark.qq.com^
 @@||www.baidu.com^$important
+@@||m.baidu.com^$important

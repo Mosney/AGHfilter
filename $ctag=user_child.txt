@@ -89,3 +89,4 @@
 ||shuyuewu.com^$ctag=user_child
 ||ttyyuuoo.com^$ctag=user_child
 ||bxwz9.org^$ctag=user_child
+||shuyuewu.co^$ctag=user_child

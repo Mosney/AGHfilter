@@ -9,6 +9,7 @@
 ||baijiahao.baidu.com^
 ||httpdns.bcelive.com^
 ||httpdns.c.cdnhwc2.com^
+||ylog.huya.com^
 ||dns.jd.com^
 ||dns.weixin.qq.com^
 ||soxs.cc^

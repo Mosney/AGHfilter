@@ -3,7 +3,6 @@
 ||360.com^
 ||umc.danuoyi.alicdn.com^
 ||httpdns-sc.aliyuncs.com^
-||atianqi.com^
 ||www.baidu.com^
 ||m.baidu.com^
 ||baijiahao.baidu.com^

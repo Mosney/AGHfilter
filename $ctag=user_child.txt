@@ -1,6 +1,7 @@
 #Others
 ||sogou.com^$ctag=user_child
 #entertainmant
+||qq.com^$ctag=user_child
 ||kandian.qq.com^$ctag=user_child
 ||v.kd1.qq.com^$ctag=user_child
 ||douyin.com^$ctag=user_child

@@ -32,6 +32,7 @@
 ||weibo.com^$ctag=user_child
 ||weibo.cn^$ctag=user_child
 ||ucweb.com^$ctag=user_child
+||uc.cn^$ctag=user_child
 ||sogou.com^$ctag=user_child
 ||sohu.com^$ctag=user_child
 #videosite

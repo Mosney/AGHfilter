@@ -9,6 +9,7 @@
 ||m.baidu.com^
 ||baijiahao.baidu.com^
 ||httpdns.bcelive.com^
+||capper.cn^
 ||httpdns.c.cdnhwc2.com^
 ||stat.centbrowser.cn^
 ||doh.ptqy.gitv.tv^

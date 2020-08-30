@@ -3,11 +3,15 @@
 ||360.com^
 ||umc.danuoyi.alicdn.com^
 ||httpdns-sc.aliyuncs.com^
+||btrace.play.aiseet.atianqi.com^
+||mtrace.play.aiseet.atianqi.com^
 ||www.baidu.com^
 ||m.baidu.com^
 ||baijiahao.baidu.com^
 ||httpdns.bcelive.com^
 ||httpdns.c.cdnhwc2.com^
+||stat.centbrowser.cn^
+||doh.ptqy.gitv.tv^
 ||ylog.huya.com^
 ||dns.jd.com^
 ||events.gfe.nvidia.com^

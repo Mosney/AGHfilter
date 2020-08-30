@@ -1,3 +1,12 @@
+/.*danuoyi(\-|\.)/
+/.*(b|m)trace(\-|\.)/
+/.*httpdns(\-|\.)/
+/.*tongji(\-|\.)/
+/.*analytic(\-|\.|s)/
+/.*counter(\-|\.|s)/
+/.*adservice(\-|\.|s)/
+/.*track(ing)?(\-|\.)/
+
 ||mmstat.com^$important
 ||360.cn^
 ||360.com^

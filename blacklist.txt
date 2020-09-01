@@ -1,4 +1,4 @@
-/.*danuoyi(\-|\.)/
+/.*umc\.danuoyi(\-|\.)/
 /.*(b|m)trace(\-|\.)/
 /.*httpdns(\-|\.)/
 /.*tongji(\-|\.)/

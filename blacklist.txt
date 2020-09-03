@@ -4,9 +4,9 @@
 /.*tongji(\-|\.)/
 /.*analytic(\-|\.|s)/
 /.*counter(\-|\.|s)/
-/.*[^(lo)|(re)|(wp)]ad\./
 /.*adservice(\-|\.|s)/
 /.*track(ing)?(\-|\.)/
+/.*[^(lo)|(re)|(wp)]ad\./
 
 ||mmstat.com^$important
 ||360.cn^

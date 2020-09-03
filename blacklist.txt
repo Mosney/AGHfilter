@@ -4,7 +4,7 @@
 /.*tongji(\-|\.)/
 /.*analytic(\-|\.|s)/
 /.*counter(\-|\.|s)/
-/.*[^lo]ad(\-|\.|s)/
+/.*[^(lo)|(re)]ad(\-|\.|s)/
 /.*adservice(\-|\.|s)/
 /.*track(ing)?(\-|\.)/
 

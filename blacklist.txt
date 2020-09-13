@@ -19,6 +19,5 @@
 ||ylog.huya.com^
 ||dns.jd.com^
 ||events.gfe.nvidia.com^
-||dns.weixin.qq.com^
 ||soxs.cc^
 ||xycdn.com^

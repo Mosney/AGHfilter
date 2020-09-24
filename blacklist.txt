@@ -7,7 +7,7 @@
 /.*adservice(\-|\.|s)/
 /.*track(ing)?(\-|\.)/
 /.*[^(cata)|(b)]log(\-|\.|s)/
-/.*[^(lo)|(re)|(wp)]ad\./
+/.*[^(lo)|(re)|(wp)|(yun)]ad\./
 
 ||mmstat.com^$important
 ||360.cn^
@@ -17,7 +17,6 @@
 ||baijiahao.baidu.com^
 ||capper.cn^
 ||stat.centbrowser.cn^
-||ylog.huya.com^
 ||dns.jd.com^
 ||events.gfe.nvidia.com^
 ||soxs.cc^

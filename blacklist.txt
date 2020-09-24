@@ -6,7 +6,7 @@
 /.*counter(\-|\.|s)/
 /.*adservice(\-|\.|s)/
 /.*track(ing)?(\-|\.)/
-/.*[^cata]log(\-|\.|s)/
+/.*[^(cata)|(b)]log(\-|\.|s)/
 /.*[^(lo)|(re)|(wp)]ad\./
 
 ||mmstat.com^$important

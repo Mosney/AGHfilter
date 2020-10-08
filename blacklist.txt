@@ -10,14 +10,24 @@
 /.*[^(lo)|(re)|(wp)|(yun)]ad\./
 
 ||mmstat.com^$important
+#DomainBlock
 ||360.cn^
 ||360.com^
 ||www.baidu.com^
 ||m.baidu.com^
 ||baijiahao.baidu.com^
+#AD SDK
 ||capper.cn^
+#Analytics
 ||stat.centbrowser.cn^
-||dns.jd.com^
 ||events.gfe.nvidia.com^
-||soxs.cc^
+#ISP
+||config.cmpassport.com^
+||www.cmpassport.com^
+||opencloud.wostore.cn^
+||open.e.189.cn^
+||id6.me^
+#DNSoverHTTP
+||dns.jd.com^
+#P2P
 ||xycdn.com^

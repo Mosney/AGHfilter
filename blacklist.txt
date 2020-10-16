@@ -2,6 +2,7 @@
 /.*(b|m)trace(\-|\.)/
 /.*httpdns(\-|\.)/
 /.*tongji(\-|\.)/
+/.*telemetry(\-|\.)/
 /.*analytic(\-|\.|s)/
 /.*counter(\-|\.|s)/
 /.*adservice(\-|\.|s)/

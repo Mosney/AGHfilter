@@ -1,5 +1,4 @@
 @@||www.baidu.com^$important
 @@||m.baidu.com^$important
-@@||cdn.ark.qq.com^important
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important

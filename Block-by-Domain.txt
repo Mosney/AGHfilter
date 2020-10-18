@@ -1,3 +1,4 @@
+||example.com^
 ||mmstat.com^$important
 #DomainBlock
 ||360.cn^

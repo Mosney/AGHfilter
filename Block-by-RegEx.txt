@@ -1,11 +1,12 @@
 /.*umc\.danuoyi(\-|\.)/
 /.*(b|m)trace(\-|\.)/
-/.*httpdns(\-|\.)/
 /.*tongji(\-|\.)/
+/.*httpdns(\-|\.)/
 /.*telemetry(\-|\.)/
 /.*analytic(\-|\.|s)/
 /.*counter(\-|\.|s)/
 /.*adservice(\-|\.|s)/
 /.*track(ing)?(\-|\.)/
-/.*[^(cata)|(b)]log(\-|\.|s)[^(lb)]/
+/.*collect(or)?(\-|\.)/
 /.*[^(lo)|(re)|(wp)|(yun)]ad\./
+/.*[^(cata)|(b)]log(\-|\.|s)[^(lb)]/

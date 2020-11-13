@@ -9,14 +9,15 @@
 #AD SDK
 ||capper.cn^
 #Analytics
+||loggw.alipay.com^
 ||stat.centbrowser.cn^
 ||events.gfe.nvidia.com^
 #ISP API
-||config.cmpassport.com^
-||www.cmpassport.com^
-||opencloud.wostore.cn^
-||open.e.189.cn^
-||id6.me^
+!||config.cmpassport.com^
+!||www.cmpassport.com^
+!||opencloud.wostore.cn^
+!||open.e.189.cn^
+!||id6.me^
 #DNSoverHTTP
 ||dns.jd.com^
 #P2P

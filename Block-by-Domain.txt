@@ -14,6 +14,7 @@
 ||events.gfe.nvidia.com^
 #AppleOCSP
 ||ocsp.apple.com^
+||ocsp.digicert.com^
 ||ocsp.g.aaplimg.com^
 ||ocsp-lb.apple.com.akadns.net^
 ||ocsp-cn-lb.apple.com.akadns.net^

@@ -13,13 +13,13 @@
 ||stat.centbrowser.cn^
 ||events.gfe.nvidia.com^
 #AppleOCSP
-||ocsp.apple.com^
-||ocsp.digicert.com^
-||ocsp.g.aaplimg.com^
-||ocsp-lb.apple.com.akadns.net^
-||ocsp-cn-lb.apple.com.akadns.net^
-||ocsp.apple.com.cdn20.com^
-||k128-mzstatic.gslb.ksyuncdn.com^
+!||ocsp.apple.com^
+!||ocsp.digicert.com^
+!||ocsp.g.aaplimg.com^
+!||ocsp-lb.apple.com.akadns.net^
+!||ocsp-cn-lb.apple.com.akadns.net^
+!||ocsp.apple.com.cdn20.com^
+!||k128-mzstatic.gslb.ksyuncdn.com^
 #ISP API
 !||config.cmpassport.com^
 !||www.cmpassport.com^

@@ -1,6 +1,6 @@
+#/.*ocsp(\-|\.)/
 /.*umc\.danuoyi(\-|\.)/
 /.*(b|m)trace(\-|\.)/
-/.*ocsp(\-|\.)/
 /.*tongji(\-|\.)/
 /.*httpdns(\-|\.)/
 /.*telemetry(\-|\.)/

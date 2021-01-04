@@ -9,5 +9,5 @@
 /.*adservice(\-|\.|s)/
 /.*track(ing)?(\-|\.)/
 /.*collect(or)?(\-|\.)/
-/.*[^(lo)|(re)|(wp)|(b)]ad\./
-/.*[^(cata)|(b)]log(\-|\.|s)[^(lb)]/
+/.*[^lo|re|wp|b|ksyun]ad\./
+/.*[^(cata|b)]log(\-|\.|s)[^(lb)]/

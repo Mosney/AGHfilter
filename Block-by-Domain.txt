@@ -28,5 +28,6 @@
 !||id6.me^
 #DNSoverHTTP
 ||dns.jd.com^
+||dns.weixin.qq.com^
 #P2P
 ||xycdn.com^

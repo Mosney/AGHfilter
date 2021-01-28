@@ -10,4 +10,4 @@
 /.*track(ing)?(\-|\.)/
 /.*collect(or)?(\-|\.)/
 /.*[^lo|re|wp|b|ksyun]ad\./
-/.*[^cata|b]log(\-|\.|s)[^lb]/
+/.*[^cata|b|typ]log(\-|\.|s)[^lb]/

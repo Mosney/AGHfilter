@@ -3,3 +3,6 @@
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important
 @@||kwaixiaodian.com^$important
+@@||pass.1688.com^$important
+@@||minorshort.weixin.qq.com^$important
+@@||wl.jd.com^$important

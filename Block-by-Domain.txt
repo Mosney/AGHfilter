@@ -31,3 +31,6 @@
 ||dns.weixin.qq.com^
 #P2P
 ||xycdn.com^
+||p2p.huya.com^$
+||mcgi.play.aiseet.atianqi.com^$important
+||stun.play.aiseet.atianqi.com^$important

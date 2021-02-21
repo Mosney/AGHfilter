@@ -1,10 +1,10 @@
 ||example.com^
 ||mmstat.com^$important
 #DomainBlock
-||360.cn^
-||360.com^
-||www.baidu.com^
-||m.baidu.com^
+#||360.cn^
+#||360.com^
+#||www.baidu.com^
+#||m.baidu.com^
 ||baijiahao.baidu.com^
 #AD SDK
 ||capper.cn^

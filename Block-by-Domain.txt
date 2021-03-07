@@ -5,7 +5,7 @@
 #||360.com^
 #||www.baidu.com^
 #||m.baidu.com^
-||baijiahao.baidu.com^
+#||baijiahao.baidu.com^
 #AD SDK
 ||capper.cn^
 #Analytics
@@ -21,11 +21,13 @@
 !||ocsp.apple.com.cdn20.com^
 !||k128-mzstatic.gslb.ksyuncdn.com^
 #ISP API
-!||config.cmpassport.com^
-!||www.cmpassport.com^
-!||opencloud.wostore.cn^
-!||open.e.189.cn^
-!||id6.me^
+||nishub1.10010.com^
+||opencloud.wostore.cn^
+||cmpassport.com^
+||open.e.189.cn^
+||id6.me^
+||114dev.com^
+||onepass.geetest.com^
 #DNSoverHTTP
 ||dns.jd.com^
 ||dns.weixin.qq.com^

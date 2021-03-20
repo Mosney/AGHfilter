@@ -1,7 +1,7 @@
 #/.*ocsp(\-|\.)/
 /.*umc\.danuoyi(\-|\.)/
 /.*(b|m)trace(\-|\.)/
-/.*tongji(\-|\.)/
+#/.*tongji(\-|\.)/
 /.*httpdns(\-|\.)/
 /.*telemetry(\-|\.)/
 /.*analytic(\-|\.|s)/

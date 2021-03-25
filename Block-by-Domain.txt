@@ -8,6 +8,7 @@
 #||baijiahao.baidu.com^
 #AD SDK
 ||capper.cn^
+||wwads.cn^
 #Analytics
 ||loggw.alipay.com^
 ||stat.centbrowser.cn^

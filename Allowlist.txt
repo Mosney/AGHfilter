@@ -1,3 +1,4 @@
+||ad.$badfilter
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important
 @@||union.dangdang.com^$important

@@ -1,4 +1,4 @@
 ||ad.$badfilter
 ||gg.$badfilter
 @@||www.googleadservices.com^|$badfilter
-@@||log.mmstat.com^$important.badfilter
+@@||log.mmstat.com^$important,badfilter

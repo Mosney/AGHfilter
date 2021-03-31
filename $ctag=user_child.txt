@@ -108,7 +108,7 @@
 ||piaotianw.com^$ctag=user_child
 ||piaotianwenxue.com^$ctag=user_child
 ||piaotianwx.com^$ctag=user_child
-||^$ctag=user_child
+||jjwxc.net^$ctag=user_child
 ||^$ctag=user_child
 ||^$ctag=user_child
 ||^$ctag=user_child

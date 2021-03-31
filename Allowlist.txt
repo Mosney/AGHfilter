@@ -1,4 +1,3 @@
-||ad.$badfilter
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important
 @@||union.dangdang.com^$important
@@ -6,6 +5,3 @@
 @@||kwaixiaodian.com^$important
 @@||pass.1688.com^$important
 @@||wl.jd.com^$important
-#@@||www.baidu.com^$important
-#@@||m.baidu.com^$important
-#@@||minorshort.weixin.qq.com^$important

@@ -10,6 +10,7 @@
 ||capper.cn^
 ||wwads.cn^
 #Analytics
+||api.cellocation.com^
 ||loggw.alipay.com^
 ||stat.centbrowser.cn^
 ||events.gfe.nvidia.com^

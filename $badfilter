@@ -1,6 +1,8 @@
 ||ad.$badfilter
 ||ad-$badfilter
 ||gg.$badfilter
+127.0.0.1 minorshort.weixin.qq.com$badfilter
 @@||image.coolapk.com^$badfilter
 @@||www.googleadservices.com^|$badfilter
 @@||log.mmstat.com^$important,badfilter
+

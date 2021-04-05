@@ -31,6 +31,7 @@
 ||114dev.com^
 ||onepass.geetest.com^
 #DNSoverHTTP
+||114dns.com^
 ||dns.jd.com^
 ||dns.weixin.qq.com^
 #P2P

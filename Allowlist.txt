@@ -5,3 +5,4 @@
 @@||kwaixiaodian.com^$important
 @@||pass.1688.com^$important
 @@||wl.jd.com^$important
+@@||minorshort.weixin.qq.com^$important

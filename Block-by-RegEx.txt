@@ -5,6 +5,7 @@
 /.*httpdns(\-|\.)/
 /.*telemetry(\-|\.)/
 /.*analytic(\-|\.|s)/
+/.*stats(\-|\.|s)/
 /.*counter(\-|\.|s)/
 /.*adservice(\-|\.|s)/
 /.*track(ing)?(\-|\.)/

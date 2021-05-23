@@ -13,5 +13,5 @@
 /.*collect(or)?(_|\-|\.)/
 /.*([^lo|re|wp|b|ksyun]ad)(s?[\d]+|m|s)?\./
 /^ad(s?[\d]+|_|\-|m|s)?\./
-/.*[^cata|b|typ]log(_|\-|s)[^lb]\./
-/^log(s?[\d]+|_|\-|s)[^lb]\./
+/.*[^cata|b|typ]log(_|\-|s|\.)[^lb]/
+/^log(s?[\d]+|_|\-|s|\.)[^lb]/

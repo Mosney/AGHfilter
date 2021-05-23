@@ -11,7 +11,7 @@
 /.*adservice(_|\-|\.|s)/
 /.*track(ing)?(_|\-|\.)/
 /.*collect(or)?(_|\-|\.)/
-/.*([^lo|re|wp|b|ksyun]ad)(s?[\d]+|m|s)?\./
+/.*((?!lo|re|wp|b|ksyun)ad)(s?[\d]+|m|s)?\./
 /^ad(s?[\d]+|_|\-|m|s)?\./
-/.*[^cata|b|typ]log(_|\-|s|\.)[^lb]/
+/.*(?!cata|b|typ)log(s?[\d]+|_|\-|s|\.)[^lb]/
 /^log(s?[\d]+|_|\-|s|\.)[^lb]/

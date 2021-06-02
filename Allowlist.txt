@@ -1,5 +1,5 @@
-@@||/.*(lo|re|wp|b|ksyun)ad(s?[\d]+|m|\_|\-|s)?\./^$important
-@@||/.*(cata|b|typ)log(s?[\d]+|\_|\-|s|)?\./^$important
+@@/.*(lo|re|wp|b|ksyun)ad(s?[\d]+|m|\_|\-|s)?\./^$important
+@@/.*(cata|b|typ)log(s?[\d]+|\_|\-|s|)?\./^$important
 @@||tracking-protection.cdn.mozilla.net^$important
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important

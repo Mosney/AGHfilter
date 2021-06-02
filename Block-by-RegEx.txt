@@ -11,8 +11,6 @@
 /.*adservice(_|\-|\.|s)/
 /.*track(ing)?(_|\-|\.)/
 /.*collect(or)?(_|\-|\.)/
-/.*((?!lo|re|wp|b|ksyun)ad)(s?[\d]+|m|s)?\./
-/^ad(s?[\d]+|_|\-|m|s)?\./
-/.*(?!cata|b|typ)log(s?[\d]+|_|\-|s|\.)/
-/^log(s?[\d]+|_|\-|s|\.)/
+/.*ad(s?[\d]+|m|s)?\./
+/.*log(s?[\d]+|_|\-|s|\.)/
 /https?:\/\/.+/

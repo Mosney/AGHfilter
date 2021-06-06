@@ -12,6 +12,7 @@
 ||capper.cn^
 ||api.cellocation.com^
 ||loggw.alipay.com^
+||fclick.baidu.com^
 ||stat.centbrowser.cn^
 ||fengkongcloud.com^
 ||ylog.huya.com^
@@ -24,6 +25,7 @@
 ||dualstack-logs.amap.com^
 ||log.cmbchina.com^
 ||wlog.gifshow.com^
+||biz.weibo.com^
 ||weicolog.api.weibo.cn^
 ||wlog.kuaishou.com^
 ||unilog.wostore.cn^
@@ -46,6 +48,8 @@
 ||onepass.geetest.com^
 #DNSoverHTTP
 ||114dns.com^
+||resolver.dingtalk.com^
+||imdns.hpplay.cn^
 ||dns.jd.com^
 ||dns.weixin.qq.com^
 #P2P
@@ -53,3 +57,4 @@
 ||p2p.huya.com^
 ||mcgi.play.aiseet.atianqi.com^
 ||stun.play.aiseet.atianqi.com^
+||soup.play.aiseet.atianqi.com^

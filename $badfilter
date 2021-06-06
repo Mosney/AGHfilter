@@ -4,4 +4,5 @@
 @@||image.coolapk.com^$badfilter
 @@||www.googleadservices.com^|$badfilter
 @@||log.mmstat.com^$important,badfilter
+@@||app.adjust.com^$important,badfilter
 

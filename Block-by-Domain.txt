@@ -21,6 +21,13 @@
 ||tuia.cn^
 ||wwads.cn^
 ||zhugeio.com^
+||dualstack-logs.amap.com^
+||log.cmbchina.com^
+||wlog.gifshow.com^
+||weicolog.api.weibo.cn^
+||wlog.kuaishou.com^
+||unilog.wostore.cn^
+||ads.95516.com^
 #AppleOCSP
 !||ocsp.apple.com^
 !||ocsp.digicert.com^

@@ -14,7 +14,7 @@
 #/.*ad(s?[\d]+|m|\_|\-|s)?\./
 #/.*log(s?[\d]+|\_|\-|s|)?\./
 /^(.*[-_.])?ad(s?[\d]+|_|\-|m|s)?\./
-/^(.*[-_.ac-z])?log(s?[\d]+|_|\-|s)?\./
+/^(.*[-_.acdf-z])?log(s?[\d]+|_|\-|s)?\./
 /https?:\/\/.+/
 # https://github.com/mmotti/adguard-home-filters
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/

@@ -1,11 +1,9 @@
-@@/.*(lo|re|wp|b|ksyun)ad(s?[\d]+|m|\_|\-|s)?\./^$important
-@@/.*(cata|b|typ)log(s?[\d]+|\_|\-|s|)?\./^$important
-@@||tracking-protection.cdn.mozilla.net^$important
-@@||s.click.taobao.com^$important
-@@||s.click.tmall.com^$important
+@@||pass.1688.com^$important
 @@||union.dangdang.com^$important
 @@||u.gwdang.com^$important
-@@||kwaixiaodian.com^$important
-@@||pass.1688.com^$important
 @@||wl.jd.com^$important
+@@||kwaixiaodian.com^$important
 @@||minorshort.weixin.qq.com^$important
+@@||s.click.taobao.com^$important
+@@||s.click.tmall.com^$important
+@@||typlog.com^$important

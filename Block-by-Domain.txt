@@ -52,9 +52,15 @@
 ||imdns.hpplay.cn^
 ||dns.jd.com^
 ||dns.weixin.qq.com^
+||doh.iqiyi.com^$important
+||doh.ptqy.gitv.tv^$important
+||doh.dns.apple.com^$important
+||doh.dns.apple.com.v.aaplimg.com^$important
 #P2P
 ||xycdn.com^
 ||p2p.huya.com^
 ||mcgi.play.aiseet.atianqi.com^
 ||stun.play.aiseet.atianqi.com^
 ||soup.play.aiseet.atianqi.com^
+||msga.ptqy.gitv.tv^$important
+

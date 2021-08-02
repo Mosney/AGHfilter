@@ -1,8 +1,10 @@
 @@||union.dangdang.com^$important
 @@||u.gwdang.com^$important
+@@||union.jd.com^$important
 @@||wl.jd.com^$important
 @@||kwaixiaodian.com^$important
 @@||minorshort.weixin.qq.com^$important
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important
 @@||typlog.com^$important
+@@||zhuanzhuan.com^$important

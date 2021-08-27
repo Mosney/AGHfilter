@@ -1,3 +1,4 @@
+@@||ad-gone.com^$important
 @@||union.dangdang.com^$important
 @@||u.gwdang.com^$important
 @@||union.jd.com^$important

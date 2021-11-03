@@ -1,9 +1,11 @@
 @@||ad-gone.com^$important
 @@||union.dangdang.com^$important
+@@||c.duomai.com^$important
+@@||epicgames.com^$important
 @@||u.gwdang.com^$important
 @@||union.jd.com^$important
 @@||wl.jd.com^$important
-@@||kwaixiaodian.com^$important
+@@||mozilla.net^$important
 @@||minorshort.weixin.qq.com^$important
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important

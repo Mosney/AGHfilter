@@ -39,13 +39,13 @@
 !||ocsp.apple.com.cdn20.com^
 !||k128-mzstatic.gslb.ksyuncdn.com^
 #ISP API
-||nishub1.10010.com^
-||opencloud.wostore.cn^
-||cmpassport.com^
+#||nishub1.10010.com^
+#||opencloud.wostore.cn^
+#||cmpassport.com^
 #||open.e.189.cn^
-||id6.me^
-||114dev.com^
-||onepass.geetest.com^
+#||id6.me^
+#||114dev.com^
+#||onepass.geetest.com^
 #DNSoverHTTP
 ||114dns.com^
 ||resolver.dingtalk.com^

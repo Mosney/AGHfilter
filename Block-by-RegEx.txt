@@ -9,7 +9,7 @@
 /.*counter(_|\-|\.|s)/
 /.*analytic(_|\-|\.|s)/
 /.*adservice(_|\-|\.|s)/
-/.*track(ing)?(_|\-|\.)/
+/.*track(ing|er)?(_|\-|\.)/
 /.*collect(or)?(_|\-|\.)/
 #/.*ad(s?[\d]+|m|\_|\-|s)?\./
 #/.*log(s?[\d]+|\_|\-|s|)?\./

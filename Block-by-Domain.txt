@@ -62,5 +62,8 @@
 ||mcgi.play.aiseet.atianqi.com^
 ||stun.play.aiseet.atianqi.com^
 ||soup.play.aiseet.atianqi.com^
-||msga.ptqy.gitv.tv^$important
-
+||hcdn.ptqy.gitv.tv^
+||hcdn.ppstream.com^
+||hcdn.iqiyi.com^
+||msga.ptqy.gitv.tv^
+||multitv-im-conn.ptqy.gitv.tv^

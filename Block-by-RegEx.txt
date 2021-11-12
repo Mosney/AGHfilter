@@ -3,7 +3,7 @@
 /.*analytic(_|\-|\.|s)/
 /.*collect(or)?(_|\-|\.)/
 /.*counter(_|\-|\.|s)/
-/.*(umc)?\.danuoyi(\-|\.)/
+/.*umc\.danuoyi(\-|\.)/
 /.*httpdns(_|\-|\.)/
 /.*metrics(_|\-|\.)/
 /.*stats(_|\-|\.|s)/

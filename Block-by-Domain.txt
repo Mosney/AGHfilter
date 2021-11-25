@@ -46,7 +46,7 @@
 #||id6.me^
 #||114dev.com^
 #||onepass.geetest.com^
-#DNSoverHTTP
+#HTTPDNS
 ||114dns.com^
 ||resolver.dingtalk.com^
 ||imdns.hpplay.cn^
@@ -54,6 +54,8 @@
 ||dns.weixin.qq.com^
 ||doh.iqiyi.com^$important
 ||doh.ptqy.gitv.tv^$important
+||hd.cloud.ptqy.gitv.tv^$important
+||hd.cloud.iqiyi.com^$important
 ||doh.dns.apple.com^$important
 ||doh.dns.apple.com.v.aaplimg.com^$important
 #P2P

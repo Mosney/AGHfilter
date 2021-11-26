@@ -1,8 +1,7 @@
 ||ad.$badfilter
 ||ad-$badfilter
 ||gg.$badfilter
-@@||image.coolapk.com^$badfilter
+@@||app.adjust.com^$important,badfilter
 @@||www.googleadservices.com^|$badfilter
 @@||log.mmstat.com^$important,badfilter
-@@||app.adjust.com^$important,badfilter
-
+@@||msg.umengcloud.com^$important,badfilter

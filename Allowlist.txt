@@ -9,5 +9,6 @@
 @@||minorshort.weixin.qq.com^$important
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important
-#@@||typlog.com^$important
+@@||typlog.com^$important
+@@||typlog.io^$important
 #@@||zhuanzhuan.com^$important

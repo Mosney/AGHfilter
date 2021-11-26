@@ -61,11 +61,13 @@
 #P2P
 ||xycdn.com^
 ||p2p.huya.com^
+||aiseet.atianqi.com^
 ||mcgi.play.aiseet.atianqi.com^
 ||stun.play.aiseet.atianqi.com^
 ||soup.play.aiseet.atianqi.com^
 ||hcdn.ptqy.gitv.tv^
 ||hcdn.ppstream.com^
 ||hcdn.iqiyi.com^
-||msga.ptqy.gitv.tv^
+||scs-hcdn.ptqy.gitv.tv^
+||scs-hcdn.iqiyi.com^
 ||multitv-im-conn.ptqy.gitv.tv^

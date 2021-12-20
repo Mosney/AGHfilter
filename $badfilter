@@ -1,6 +1,7 @@
 ||ad.$badfilter
 ||ad-$badfilter
 ||gg.$badfilter
+||wan.$~image,badfilter
 @@||app.adjust.com^$important,badfilter
 @@||www.googleadservices.com^|$badfilter
 @@||log.mmstat.com^$important,badfilter

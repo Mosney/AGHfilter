@@ -5,6 +5,7 @@
 @@||u.gwdang.com^$important
 @@||union.jd.com^$important
 @@||wl.jd.com^$important
+@@||g.live.com^$important
 @@||mozilla.net^$important
 @@||minorshort.weixin.qq.com^$important
 @@||s.click.taobao.com^$important

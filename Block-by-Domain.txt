@@ -21,6 +21,9 @@
 ||wlog.gifshow.com^
 ||ylog.huya.com^
 ||wlog.kuaishou.com^
+||uxip.meizu.com^
+||uxip-config.meizu.com^
+||umid.orion.meizu.com
 ||events.gfe.nvidia.com^
 ||mdm.oneplus.net^
 ||mdt.qq.com^

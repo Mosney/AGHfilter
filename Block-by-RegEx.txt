@@ -16,6 +16,7 @@
 /^(.*[-_.])?ad(s?[\d]+|_|\-|m|s)?\./
 /^(.*[-_.cdf-z])?log(s?[\d]+|_|\-|s)?\./
 /https?:\/\/.+/
+/.*report\.meituan\./
 # https://github.com/mmotti/adguard-home-filters
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/

@@ -59,6 +59,7 @@
 ||imdns.hpplay.cn
 ||dns.jd.com
 ||dns.weixin.qq.com
+||apidns.kwd.inkuai.com
 ||doh.iqiyi.com
 ||doh.ptqy.gitv.tv
 ||hd.cloud.ptqy.gitv.tv

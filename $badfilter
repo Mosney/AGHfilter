@@ -2,7 +2,12 @@
 ||ad-$badfilter
 ||gg.$badfilter
 ||wan.$~image,badfilter
+||appdownload.alicdn.com^$badfilter
+||mas-ext.amazon.com^$badfilter
+||wl.jd.com^$badfilter
 ||e.kuaishou.com^$badfilter
+||quark.cn^$badfilter
+||uc.cn^$badfilter
 @@-ds.metric.gstatic.com^$badfilter
 @@||app.adjust.com^$important,badfilter
 @@||www.googleadservices.com^|$badfilter

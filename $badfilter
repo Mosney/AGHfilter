@@ -2,6 +2,7 @@
 ||ad-$badfilter
 ||gg.$badfilter
 ||wan.$~image,badfilter
+||e.kuaishou.com^$badfilter
 @@-ds.metric.gstatic.com^$badfilter
 @@||app.adjust.com^$important,badfilter
 @@||www.googleadservices.com^|$badfilter

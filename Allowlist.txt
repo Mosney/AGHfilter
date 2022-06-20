@@ -8,6 +8,7 @@
 #
 @@||ad-gone.com
 @@||appdownload.alicdn.com
+@@||api.e.kuaishou.com
 @@||mushroomtrack.com
 @@||staticstats.nexusmods.com
 @@||wxa.wxs.qq.com

@@ -15,13 +15,10 @@
 @@||wxa.wxs.qq.com
 @@||wxsnsdy.wxs.qq.com
 @@||minorshort.weixin.qq.com
-@@||quark.cn
-@@||myquark.cn
 @@||substats.swo.moe
 @@||sjarvis.taobao.com
 @@||ads.twitter.com
 @@||typlog.com
 @@||typlog.io
-@@||uc.cn
 #
 @@||eulatracking-public-service-

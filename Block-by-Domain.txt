@@ -55,6 +55,7 @@
 #||onepass.geetest.com
 #HTTPDNS
 ||114dns.com
+||alipaydns.com
 ||resolver.dingtalk.com
 ||imdns.hpplay.cn
 ||dns.jd.com

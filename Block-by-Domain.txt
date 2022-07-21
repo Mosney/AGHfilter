@@ -11,6 +11,8 @@
 #Analytics&AD&Marketing
 ||ads.95516.com
 ||loggw.alipay.com
+||loggw-ex.alipay.com
+||loggw-exsdk.alipay.com
 ||dualstack-logs.amap.com
 ||fclick.baidu.com
 ||capper.cn

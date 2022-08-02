@@ -20,6 +20,7 @@
 ||stat.centbrowser.cn
 ||log.cmbchina.com
 ||fengkongcloud.com
+||ulogjs.gifshow.com
 ||wlog.gifshow.com
 ||msga.ptqy.gitv.tv
 ||img-c.heytapimage.com

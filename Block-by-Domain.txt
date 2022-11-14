@@ -1,8 +1,8 @@
 ||example.com
 ||mmstat.com$important
 #DomainBlock
-#||360.cn
-#||360.com
+||360.cn
+||360.com
 #||www.baidu.com
 #||m.baidu.com
 #||baijiahao.baidu.com
@@ -27,6 +27,10 @@
 ||udblog.huya.com
 ||ylog.huya.com
 ||wlog.kuaishou.com
+||chnadapi.lenovo.com.cn
+||clk.lenovo.com.cn
+||mt.lenovo.com.cn
+||click.lenovo.com
 ||uxip.meizu.com
 ||uxip-config.meizu.com
 ||umid.orion.meizu.com
@@ -49,13 +53,13 @@
 !||ocsp.apple.com.cdn20.com
 !||k128-mzstatic.gslb.ksyuncdn.com
 #ISP API
-#||nishub1.10010.com
-#||opencloud.wostore.cn
-#||cmpassport.com
-#||open.e.189.cn
-#||id6.me
-#||114dev.com
-#||onepass.geetest.com
+||nishub1.10010.com
+||opencloud.wostore.cn
+||cmpassport.com
+||open.e.189.cn
+||id6.me
+||114dev.com
+||onepass.geetest.com
 #HTTPDNS
 ||114dns.com
 ||alipaydns.com

@@ -1,6 +1,6 @@
+#DomainBlock
 ||example.com
 ||mmstat.com$important
-#DomainBlock
 ||360.cn
 ||360.com
 #||www.baidu.com
@@ -75,9 +75,11 @@
 ||dns.jd.com
 ||hdns.ksyun.com
 ||dns.weixin.qq.com
+||dns.weixin.qq.com.cn
 #P2P
 ||xycdn.com
 ||p2p.huya.com
+||pcdn.xmcdn.com
 ||aiseet.atianqi.com
 ||mcgi.play.aiseet.atianqi.com
 ||stun.play.aiseet.atianqi.com

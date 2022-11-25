@@ -57,7 +57,7 @@
 ||opencloud.wostore.cn
 ||cmpassport.com
 #||open.e.189.cn
-||id6.me
+#||id6.me
 ||114dev.com
 ||onepass.geetest.com
 #HTTPDNS

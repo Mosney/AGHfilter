@@ -4,6 +4,7 @@
 #||qq.com^$ctag=user_child
 ||bilibili.com^$ctag=user_child
 ||biliapi.net^$ctag=user_child
+||bilivideo.cn^$ctag=user_child
 ||bilivideo.com^$ctag=user_child
 ||hdslb.com^$ctag=user_child
 ||shortv.cdp.qq.com^$ctag=user_child

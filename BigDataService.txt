@@ -33,7 +33,7 @@
 ||ucdesk.cn^
 ||ucfly.com^
 ||ucweb.cn^
-||ucweb.com^
+!||ucweb.com^
 ||ucweb.com.cn^
 ||uflowx.com^
 ||xiaomengquan.cn^

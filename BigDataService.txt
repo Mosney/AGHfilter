@@ -28,7 +28,7 @@
 ||tinyppa.cn^
 ||u-mob.cn^
 ||ubibibi.com^
-||uc.cn^
+!||uc.cn^
 ||uc123.com^
 ||ucdesk.cn^
 ||ucfly.com^

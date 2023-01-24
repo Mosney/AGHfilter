@@ -8,6 +8,7 @@
 ||e.kuaishou.com^$badfilter
 ||quark.cn^$badfilter
 ||uc.cn^$badfilter
+||t.uc.cn^$badfilter
 @@-ds.metric.gstatic.com^$badfilter
 @@||app.adjust.com^$important,badfilter
 @@||www.googleadservices.com^|$badfilter

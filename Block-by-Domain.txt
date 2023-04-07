@@ -1,8 +1,8 @@
 #DomainBlock
 ||example.com
 ||mmstat.com$important
-||360.cn
-||360.com
+#||360.cn
+#||360.com
 #||www.baidu.com
 #||m.baidu.com
 #||baijiahao.baidu.com

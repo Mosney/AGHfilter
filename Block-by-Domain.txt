@@ -89,7 +89,7 @@
 #||aiseet.atianqi.com
 #||mcgi.play.aiseet.atianqi.com
 #||stun.play.aiseet.atianqi.com
-||soup.play.aiseet.atianqi.com
+#||soup.play.aiseet.atianqi.com
 ||hcdn.ptqy.gitv.tv
 ||hcdn.ppstream.com
 ||hcdn.iqiyi.com

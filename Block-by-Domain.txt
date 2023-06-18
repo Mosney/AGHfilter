@@ -1,5 +1,5 @@
 #DomainBlock
-#FanZha
+#XiaomiFanZha
 ||miav-cse.avlyun.com #[腾讯/安天]
 ||miui-fxcse.avlyun.com #[腾讯/安天】
 ||*.app.xiaomi.com #[小米跟踪API]
@@ -86,9 +86,9 @@
 ||xycdn.com
 ||p2p.huya.com
 ||pcdn.xmcdn.com
-||aiseet.atianqi.com
-||mcgi.play.aiseet.atianqi.com
-||stun.play.aiseet.atianqi.com
+#||aiseet.atianqi.com
+#||mcgi.play.aiseet.atianqi.com
+#||stun.play.aiseet.atianqi.com
 ||soup.play.aiseet.atianqi.com
 ||hcdn.ptqy.gitv.tv
 ||hcdn.ppstream.com

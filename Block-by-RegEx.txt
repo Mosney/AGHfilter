@@ -1,5 +1,5 @@
 /[^i]pcdn/
-/vodp2/
+#/vodp2/
 /p2p/
 #/.*ocsp(_|\-|\.)/
 /.*adservice(_|\-|\.|s)/

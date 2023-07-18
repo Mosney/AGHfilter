@@ -67,6 +67,9 @@
 ||114dev.com
 ||onepass.geetest.com
 #HTTPDNS
+||tdnsv6.com
+||tdnsdp1.cn
+||tdnsstic1.cn
 ||114dns.com
 ||alipaydns.com
 ||doh.dns.apple.com

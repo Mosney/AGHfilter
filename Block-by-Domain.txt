@@ -82,6 +82,7 @@
 ||hdns.ksyun.com
 ||dns.weixin.qq.com
 ||dns.weixin.qq.com.cn
+||aedns.weixin.qq.com
 #P2P
 ||xycdn.com
 ||p2p.huya.com

@@ -1,4 +1,4 @@
-/[^i]pcdn/
+/[^iu]pcdn/
 #/vodp2/
 /p2p/
 #/.*ocsp(_|\-|\.)/

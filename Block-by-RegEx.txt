@@ -1,4 +1,4 @@
-/[^iu]pcdn/
+/[^iu]pcdn|^pcdn(\.|-)/
 #/vodp2/
 /p2p/
 #/.*ocsp(_|\-|\.)/
@@ -20,7 +20,6 @@
 /^(.*[-_.cdf-z])?log(s?[\d]+|_|\-|s)?\./
 /https?:\/\/.+/
 /.*report\.meituan\./
-/.*\.?pcdn(\.|-)/
 # https://github.com/mmotti/adguard-home-filters
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/

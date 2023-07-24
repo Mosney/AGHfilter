@@ -20,7 +20,7 @@
 /^(.*[-_.cdf-z])?log(s?[\d]+|_|\-|s)?\./
 /https?:\/\/.+/
 /.*report\.meituan\./
-/.*\.pcdn(\.|-)/
+/.*\.?pcdn(\.|-)/
 # https://github.com/mmotti/adguard-home-filters
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/

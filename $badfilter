@@ -1,6 +1,7 @@
 ||ad.$badfilter
 ||ad-$badfilter
 ||gg.$badfilter
+||union.$badfilter
 ||wan.$~image,badfilter
 ||appdownload.alicdn.com^$badfilter
 ||mas-ext.amazon.com^$badfilter

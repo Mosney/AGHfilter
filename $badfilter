@@ -2,7 +2,7 @@
 ||ad-$badfilter
 ||gg.$badfilter
 ||union.$badfilter
-#||wan.$~image,badfilter
+||wan.$~image,badfilter
 ||360.cn$badfilter
 ||qihucdn.com$badfilter
 ||appdownload.alicdn.com^$badfilter

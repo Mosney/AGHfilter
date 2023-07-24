@@ -1,6 +1,3 @@
-#ShoppingUnion
-@@||union.dangdang.com
-@@||union.jd.com
 #
 @@||ad-gone.com
 @@||mushroomtrack.com

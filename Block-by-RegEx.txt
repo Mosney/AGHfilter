@@ -1,4 +1,5 @@
 /p2p/
+/(^|[^iu])pcdn/
 /.*adservice(_|\-|\.|s)/
 /.*analytic(_|\-|\.|s)/
 /.*collect(or)?(_|\-|\.)/

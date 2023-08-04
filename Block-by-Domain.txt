@@ -1,9 +1,4 @@
 #DomainBlock
-#XiaomiFanZha
-||miav-cse.avlyun.com #[腾讯/安天]
-||miui-fxcse.avlyun.com #[腾讯/安天】
-||*.app.xiaomi.com #[小米跟踪API]
-||api.installer.xiaomi.com #[应用包扫描AP1]
 #
 ||example.com
 ||mmstat.com$important
@@ -12,6 +7,12 @@
 #||www.baidu.com
 #||m.baidu.com
 #||baijiahao.baidu.com
+#XiaomiFanZha
+||avlyun.com
+||sec.miui.com
+||sec.intl.miui.com
+||app.xiaomi.com
+||installer.xiaomi.com
 #Union
 ||duomai.com
 #Analytics&AD&Marketing

@@ -62,6 +62,7 @@
 ||dnsnb8.net
 #P2P
 ||xycdn.com
+||mcdn.bilivideo.cn
 ||p2p.huya.com
 ||pcdn.xmcdn.com
 #||aiseet.atianqi.com

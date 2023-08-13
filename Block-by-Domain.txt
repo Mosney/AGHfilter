@@ -31,6 +31,8 @@
 ||mdm.oneplus.net
 ||mdt.qq.com
 ||ssp.qq.com
+||pangolin-sdk-toutiao.com
+||pangolin-sdk-toutiao1.com
 ||tuia.cn
 ||weicolog.api.weibo.cn
 ||biz.weibo.com

@@ -40,11 +40,11 @@
 ||wwads.cn
 ||zhugeio.com
 #HTTPDNS
-||114dns.com
+#||114dns.com
 ||alibabadns.com
 ||alipaydns.com
-||tdnsv6.com
-||tdnsdp1.cn
+#||tdnsv6.com
+#||tdnsdp1.cn
 ||tdnsstic1.cn
 ||doh.dns.apple.com
 ||doh.dns.apple.com.v.aaplimg.com

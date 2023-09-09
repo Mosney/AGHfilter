@@ -1,8 +1,8 @@
 ||ad-gone.com
-||gm.mmstat.com
+#||gm.mmstat.com
 ||mushroomtrack.com
 ||staticstats.nexusmods.com
-|log.zero.root.me
+||root.me
 ||substats.swo.moe
 ||ads.twitter.com
 ||typlog.com

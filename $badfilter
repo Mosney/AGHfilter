@@ -8,6 +8,7 @@
 ||appdownload.alicdn.com^$badfilter
 ||mas-ext.amazon.com^$badfilter
 ||wl.jd.com^$badfilter
+||jpush.cn^badfilter
 ||e.kuaishou.com^$badfilter
 ||quark.cn^$badfilter
 ||uc.cn^$badfilter

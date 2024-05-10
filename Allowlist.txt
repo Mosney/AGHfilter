@@ -1,11 +1,17 @@
 ||ad-gone.com
 ||gm.mmstat.com
 ||mushroomtrack.com
+||ad.nn.ci
+||nxtrace.org
 ||staticstats.nexusmods.com
 ||root.me
+||rsyslog.com
 ||substats.swo.moe
+||trpcdn.net
 ||ads.twitter.com
 ||typlog.com
 ||typlog.io
+||stats.uptimerobot.com
+||upload.cc
 ||xlog.app
 ||eulatracking-public-service-

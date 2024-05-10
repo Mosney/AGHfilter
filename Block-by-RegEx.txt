@@ -7,6 +7,7 @@
 /.*umc\.danuoyi(\-|\.)/
 /.*httpdns(_|\-|\.)/
 /.*metrics(_|\-|\.)/
+/.*report(_|\-|\.|s)/
 /.*stats(_|\-|\.|s)/
 /.*telemetry(_|\-|\.)/
 /.*tongji(_|\-|\.)/

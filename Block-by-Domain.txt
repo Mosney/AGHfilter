@@ -1,4 +1,5 @@
 #DomainBlock
+||duolingo.cn
 ||example.com
 ||mmstat.com$important
 #Analytics&AD&Marketing
@@ -31,6 +32,8 @@
 ||mdm.oneplus.net
 ||mdt.qq.com
 ||ssp.qq.com
+||vv.video.qq.com
+||disp-qryapi.3g.qq.com
 ||pangolin-sdk-toutiao.com
 ||pangolin-sdk-toutiao1.com
 ||tuia.cn

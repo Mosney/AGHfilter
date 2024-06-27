@@ -114,6 +114,6 @@
 ||piaotianwenxue.com^$ctag=user_child
 ||piaotianwx.com^$ctag=user_child
 ||jjwxc.net^$ctag=user_child
-||^$ctag=user_child
+||zhenhunxiaoshuo.com^$ctag=user_child
 ||^$ctag=user_child
 ||^$ctag=user_child

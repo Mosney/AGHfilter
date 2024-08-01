@@ -70,7 +70,6 @@
 #||mcdn.bilivideo.cn
 ||p2p.huya.com
 ||pcdn.xmcdn.com
-||aiseet.atianqi.com
 ||mcgi.play.aiseet.atianqi.com
 ||stun.play.aiseet.atianqi.com
 ||soup.play.aiseet.atianqi.com

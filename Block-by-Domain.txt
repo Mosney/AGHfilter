@@ -1,5 +1,5 @@
 #DomainBlock
-||duolingo.cn
+#||duolingo.cn
 ||example.com
 ||mmstat.com$important
 #Analytics&AD&Marketing

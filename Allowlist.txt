@@ -1,4 +1,4 @@
-*.ad.alibabacorp.com
+|*.ad.alibabacorp.com
 ||eulatracking-public-service-
 ||ad-gone.com
 ||mushroomtrack.com

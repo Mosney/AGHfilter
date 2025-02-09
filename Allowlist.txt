@@ -1,3 +1,4 @@
+ad.alibabacorp.com
 ||eulatracking-public-service-
 ||ad-gone.com
 ||mushroomtrack.com
@@ -12,8 +13,6 @@
 ||ad.nn.ci
 ||ads.twitter.com
 ||gm.mmstat.com
-||drive-*.quark.cn
-||pan.quark.cn
 ||staticstats.nexusmods.com
 ||stats.uptimerobot.com
 ||substats.swo.moe

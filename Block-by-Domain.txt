@@ -85,5 +85,5 @@
 ||avlyun.com
 ||sec.miui.com
 ||sec.intl.miui.com
-||app.xiaomi.com
+#||app.xiaomi.com
 ||installer.xiaomi.com

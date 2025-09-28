@@ -1,4 +1,4 @@
-/p2p/
+/\.p2p|p2p\./
 /(^|[^aimpu])pcdn/
 /.*adservice(_|\-|\.|s)/
 /.*analytic(_|\-|\.|s)/

@@ -8,13 +8,14 @@
 ||root.me
 ||rsyslog.com
 ||t.co
+||s.click.tmall.com
 ||trpcdn.net
 ||typlog.com
 ||typlog.io
 ||upload.cc
 ||xlog.app
 ||ad.nn.ci
-||ads.twitter.com
+#||ads.twitter.com
 ||gm.mmstat.com
 ||staticstats.nexusmods.com
 ||stats.uptimerobot.com

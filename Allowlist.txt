@@ -8,6 +8,7 @@
 ||root.me
 ||rsyslog.com
 ||t.co
+||s.click.taobao.com
 ||s.click.tmall.com
 ||trpcdn.net
 ||typlog.com

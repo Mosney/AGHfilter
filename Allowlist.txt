@@ -1,6 +1,8 @@
-|*long.weixin.qq.com
-|*short.weixin.qq.com
-|*.ad.alibabacorp.com
+*dns.wechat.com
+*dns.weixin.qq.com.cn
+*long.weixin.qq.com
+*short.weixin.qq.com
+*.ad.alibabacorp.com
 ||eulatracking-public-service-
 ||ad-gone.com
 ||mushroomtrack.com
